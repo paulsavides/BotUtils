@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MessageRouter
+namespace Pisces.BotUtils.MessageRouter
 {
-    public class Class1
-    {
-    }
+  public class Router
+  {
+
+
+  }
 }

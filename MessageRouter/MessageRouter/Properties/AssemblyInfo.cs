@@ -5,8 +5,8 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MessageRouter")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Pisces.BotUtils.MessageRouter")]
+[assembly: AssemblyDescription("Utility for tokenizing and routing messages.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("MessageRouter")]
